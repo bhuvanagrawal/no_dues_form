@@ -1,0 +1,21 @@
+body{
+	overflow-x: scroll;
+    overflow-y: scroll;
+}
+.logo{
+	float: left;
+}
+.titl{
+	text-align:center;
+}
+.rigth{
+	text-align: right;
+}
+#sub{
+	background-color: #f4f4f4;
+	height: 50px;
+	width: 100px;
+	margin: 20px;
+	font-size: 1em;
+	border-radius: 1000px;
+	}
